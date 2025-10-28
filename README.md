@@ -4,7 +4,7 @@ My personal fork of SpaceODY's Space-Shuttle-System-Expanded with my own modific
 
 ## All new releases should be considered craft- and save-breaking!
 
-## Updated October 2024
+## Updated October 2025
 
 |<img src="https://github.com/giuliodondi/Space-Shuttle-System-realistic-aerodynamics/blob/master/GameData/SPACE_SHUTTLE_SYSTEM/Screenshots/shuttle-system-plume.gif" width="400" /><br>Reworked Waterfall effects|<img src="https://github.com/giuliodondi/Space-Shuttle-System-realistic-aerodynamics/blob/master/GameData/SPACE_SHUTTLE_SYSTEM/Screenshots/shuttle-system-screen2.png" width="500" /><br>Texture overhaul and new liveries|
 |:-:|:-:|
@@ -20,7 +20,7 @@ My personal fork of SpaceODY's Space-Shuttle-System-Expanded with my own modific
 
 
 
-<b>Special thanks to FlandreScarlet1 for modelling work on the cockpit and rudder</b>
+<b>Special thanks to FlandreScarlet1 for the Module Occlusion Heat and modelling work on the cockpit and rudder</b>
 
 ## DEPENDENCIES (install the latest compatible version):
 - ASET Consolidated Avionics Pack (for the cockpit props)
