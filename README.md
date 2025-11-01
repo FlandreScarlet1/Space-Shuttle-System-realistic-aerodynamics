@@ -33,6 +33,9 @@ My personal fork of SpaceODY's Space-Shuttle-System-Expanded with my own modific
 - Waterfall
 - [My personal fork of Ferram Aerospace Research for the custom aerodynamic model](https://github.com/giuliodondi/Ferram-Aerospace-Research-modded)
 
+## RECOMMENDED
+- Firefly, I contributed with a custom enveope made specially for this Shuttle
+
 ## INSTALLATION
 
 - Install all the requirements
